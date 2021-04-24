@@ -28,5 +28,5 @@ How to setup all of this crap:
 9. Right click in the folder. Press "open powershell window here" or something like that. Then execute this: "py AutoMessage.py"
 
 
-I just tried this on my own, via using the tutorial I just wrote here. It works totally fine. If you're receiving errors, hit me up: https://discord.gg/Hef5ZgX2Hx
+I just tried this on my own, via using the tutorial I just wrote here. It works totally fine. If you're receiving errors, hit me up: https://discord.gg/NMgKDfSqrv
 
