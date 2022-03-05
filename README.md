@@ -8,7 +8,7 @@ How to setup this:
 
 4. Right-click the channel you want the messages in and click "copy ID", then paste it in the "channel.txt" file in the "textfiles" folder. 
 
-5. Right-click the server-name and click "copy id". Afterwards, create the follwing link: https://discord.com/channels/[ID that you've just copied]/[Channel-ID that you've copied before]
+5. Right-click the server-name and click "copy id". Afterwards, create the follwing link: https://discord.com/channels/[ID-that-you've-just-copied]/[Channel-ID-that-you've-copied-before]
    It should look something like this: https://discord.com/channels/82828140172439/0234924769124
    Paste that link into "channellink.txt".
 
