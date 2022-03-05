@@ -30,3 +30,4 @@ How to setup this:
 HMU if there are any problems.
 https://shmalle.xyz/contact
 Shmalle#1337 on Discord
+https://discord.gg/XhzKhfVpvY
