@@ -64,7 +64,7 @@ def send_message(conn, channel_id, message_data):
             pass
 
     except:
-        stderr.write("BEG_ERROR\n")
+        stderr.write("ERROR\n")
 
 def main():
 	message_data = {
